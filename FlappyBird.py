@@ -37,7 +37,10 @@ class Passaro:
         self.velocidade = 0
         self.altura = self.y
         self.tempo = 0
-        self.
+        self.contagem_imagem = 0
+        self.imagem = IMGS[0]
+
+
 
 
 
